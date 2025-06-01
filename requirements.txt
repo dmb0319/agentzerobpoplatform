@@ -1,0 +1,5 @@
+pdfplumber>=0.7.0
+pytesseract>=0.3.8
+pytest>=7.0.0
+PyYAML>=6.0
+typing-extensions>=4.0.0 
